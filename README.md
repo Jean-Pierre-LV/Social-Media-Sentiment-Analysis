@@ -1,1 +1,2 @@
 # Social-Media-Sentiment-Analysis
+Social media data today has become relevant for branding, marketing, and business as a whole. A sentiment analyser learns about various sentiments behind a “content piece”  (could be IM, email, tweet or any other social media post) through machine learning and predicts the same using AI.Twitter data is considered as a definitive entry point for beginners to practice sentiment analysis  machine learning problems. 
