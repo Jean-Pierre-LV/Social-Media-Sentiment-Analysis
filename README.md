@@ -34,6 +34,7 @@ for tweet in public_tweets:
     print(analisys.sentiment)
 ```
 3. The results shown the polarity of bad or good sentiment between -1 and 1.
+```
 America mourns the loss of our three brave firefighters who died battling bush fires in Australia. Our hearts are with their…
 Sentiment(polarity=0.8, subjectivity=1.0)
-
+```
